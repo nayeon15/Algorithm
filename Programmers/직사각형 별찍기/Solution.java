@@ -1,4 +1,4 @@
-import java.*;
+import java.util.*;
 
 public class undefind {
     public static void main(String[] args) {
