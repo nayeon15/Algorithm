@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.*;
 
 public class undefind {
     public static void main(String[] args) {
